@@ -1,4 +1,4 @@
-import { GET_APP_PRODUCTS } from '../Constants/ProductConstants';
+import { GET_APP_PRODUCTS } from '../constants/ProductConstants';
 
 const ProductService = {
 
